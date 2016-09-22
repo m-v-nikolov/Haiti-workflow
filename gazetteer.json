@@ -1,0 +1,28 @@
+[
+    {
+        "model": "migration-sweep-clinical-cases-5yr-avg-per-1000-calibration-period-2010-2014", 
+        "params": "{0.001, 0.01, 0.1, 0.15}", 
+        "select": [
+            {
+                "name": "", 
+                "value": "unselect"
+            }, 
+            {
+                "name": "x_Local_Migration_0.001", 
+                "value": "1e-3"
+            },
+			{
+                "name": "x_Local_Migration_0.01", 
+                "value": "1e-2"
+            },
+			{
+                "name": "x_Local_Migration_0.1", 
+                "value": "1e-1"
+            },
+			{
+                "name": "x_Local_Migration_0.15", 
+                "value": "15e-2"
+            }
+        ]
+    }
+]

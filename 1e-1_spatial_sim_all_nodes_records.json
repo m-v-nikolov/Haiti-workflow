@@ -1,0 +1,1397 @@
+{
+    "831009506": {
+        "node_label": 749, 
+        "rel_err": 0.62040623471870249, 
+        "abs_err": 2.0429940223693848, 
+        "Pf-Incidence-per-1000-data": 3.2929940223693848, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 1.25, 
+        "Population": 1963.33138776
+    }, 
+    "831009504": {
+        "node_label": 450, 
+        "rel_err": 1.0, 
+        "abs_err": 2.7712135314941406, 
+        "Pf-Incidence-per-1000-data": 2.7712135314941406, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 204.167880535
+    }, 
+    "831009503": {
+        "node_label": 789, 
+        "rel_err": 1.0, 
+        "abs_err": 2.4120461940765381, 
+        "Pf-Incidence-per-1000-data": 2.412046194076538, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 130.725142002
+    }, 
+    "834810592": {
+        "node_label": 919, 
+        "rel_err": 0.40561010111831869, 
+        "abs_err": 1.0235960483551025, 
+        "Pf-Incidence-per-1000-data": 2.5235960483551025, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 1.5, 
+        "Population": 1588.1259253
+    }, 
+    "831009501": {
+        "node_label": 534, 
+        "rel_err": 1.0, 
+        "abs_err": 2.0172808170318604, 
+        "Pf-Incidence-per-1000-data": 2.0172808170318604, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 595.2933022980001
+    }, 
+    "834613942": {
+        "node_label": 1195, 
+        "rel_err": 1.0, 
+        "abs_err": 0.26552483439445496, 
+        "Pf-Incidence-per-1000-data": 0.26552483439445496, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 822.183363914
+    }, 
+    "831337179": {
+        "node_label": 76, 
+        "rel_err": 1.0, 
+        "abs_err": 1.468511700630188, 
+        "Pf-Incidence-per-1000-data": 1.468511700630188, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 130.216618538
+    }, 
+    "831926982": {
+        "node_label": 1147, 
+        "rel_err": 0.2238562039403531, 
+        "abs_err": 0.93736839294433594, 
+        "Pf-Incidence-per-1000-data": 4.187368392944336, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 3.25, 
+        "Population": 13975.194802300002
+    }, 
+    "834351797": {
+        "node_label": 17, 
+        "rel_err": 1.0, 
+        "abs_err": 0.29700011014938354, 
+        "Pf-Incidence-per-1000-data": 0.29700011014938354, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 39610.3660488
+    }, 
+    "830681819": {
+        "node_label": 915, 
+        "rel_err": 56.612361426331425, 
+        "abs_err": 169.26019024848938, 
+        "Pf-Incidence-per-1000-data": 2.98980975151062, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 172.25, 
+        "Population": 812.346378326
+    }, 
+    "830878427": {
+        "node_label": 57, 
+        "rel_err": 0.12228857141927087, 
+        "abs_err": 0.31348490715026855, 
+        "Pf-Incidence-per-1000-data": 2.5634849071502686, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 2.25, 
+        "Population": 333.3835783
+    }, 
+    "832844514": {
+        "node_label": 374, 
+        "rel_err": 38.001383085803155, 
+        "abs_err": 114.48728632926941, 
+        "Pf-Incidence-per-1000-data": 3.012713670730591, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 117.5, 
+        "Population": 254.02350139599997
+    }, 
+    "834417370": {
+        "node_label": 264, 
+        "rel_err": 1.0, 
+        "abs_err": 2.2607693672180176, 
+        "Pf-Incidence-per-1000-data": 2.2607693672180176, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 105.829422474
+    }, 
+    "830354127": {
+        "node_label": 64, 
+        "rel_err": 1.0, 
+        "abs_err": 3.7401928901672363, 
+        "Pf-Incidence-per-1000-data": 3.7401928901672363, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 169.95258426700002
+    }, 
+    "834941610": {
+        "node_label": 1183, 
+        "rel_err": 1.0, 
+        "abs_err": 0.37256661057472229, 
+        "Pf-Incidence-per-1000-data": 0.3725666105747223, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 6362.23430324
+    }, 
+    "835138216": {
+        "node_label": 642, 
+        "rel_err": "NaN", 
+        "abs_err": "NaN", 
+        "Pf-Incidence-per-1000-data": -9999.0, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 252.787205935
+    }, 
+    "832844495": {
+        "node_label": 1117, 
+        "rel_err": 1.0, 
+        "abs_err": 0.37497627735137939, 
+        "Pf-Incidence-per-1000-data": 0.3749762773513794, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 185.35961771
+    }, 
+    "831402724": {
+        "node_label": 139, 
+        "rel_err": 22.896435295448793, 
+        "abs_err": 54.614706993103027, 
+        "Pf-Incidence-per-1000-data": 2.3852930068969727, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 57.0, 
+        "Population": 25783.713012199994
+    }, 
+    "832713407": {
+        "node_label": 75, 
+        "rel_err": 1.0, 
+        "abs_err": 3.5414013862609863, 
+        "Pf-Incidence-per-1000-data": 3.5414013862609863, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 553.7378644940001
+    }, 
+    "833958617": {
+        "node_label": 1015, 
+        "rel_err": 169.11288229558502, 
+        "abs_err": 436.91642141342163, 
+        "Pf-Incidence-per-1000-data": 2.583578586578369, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 439.5, 
+        "Population": 5078.71333122
+    }, 
+    "834024127": {
+        "node_label": 725, 
+        "rel_err": 1.0, 
+        "abs_err": 0.45437675714492798, 
+        "Pf-Incidence-per-1000-data": 0.454376757144928, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 189.11299085599998
+    }, 
+    "834286250": {
+        "node_label": 999, 
+        "rel_err": 1.0, 
+        "abs_err": 0.2772509753704071, 
+        "Pf-Incidence-per-1000-data": 0.2772509753704071, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 3591.50328302
+    }, 
+    "834548402": {
+        "node_label": 270, 
+        "rel_err": 1.0, 
+        "abs_err": 0.36698666214942932, 
+        "Pf-Incidence-per-1000-data": 0.3669866621494293, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 3287.56286645
+    }, 
+    "831664880": {
+        "node_label": 473, 
+        "rel_err": 0.55761420088386371, 
+        "abs_err": 1.5755879878997803, 
+        "Pf-Incidence-per-1000-data": 2.8255879878997803, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 1.25, 
+        "Population": 114.645618439
+    }, 
+    "830681826": {
+        "node_label": 569, 
+        "rel_err": 8.7292522611797096, 
+        "abs_err": 23.551950931549072, 
+        "Pf-Incidence-per-1000-data": 2.6980490684509277, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 26.25, 
+        "Population": 2841.46038055
+    }, 
+    "833172159": {
+        "node_label": 1006, 
+        "rel_err": 1.0, 
+        "abs_err": 1.1447842121124268, 
+        "Pf-Incidence-per-1000-data": 1.1447842121124268, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 110.664978027
+    }, 
+    "833172158": {
+        "node_label": 236, 
+        "rel_err": 1.0, 
+        "abs_err": 1.2890598773956299, 
+        "Pf-Incidence-per-1000-data": 1.2890598773956299, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 123.600932121
+    }, 
+    "835203778": {
+        "node_label": 610, 
+        "rel_err": 1.0, 
+        "abs_err": 0.36671525239944458, 
+        "Pf-Incidence-per-1000-data": 0.3667152523994446, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 4470.39368653
+    }, 
+    "830943971": {
+        "node_label": 157, 
+        "rel_err": 1.0, 
+        "abs_err": 2.2813596725463867, 
+        "Pf-Incidence-per-1000-data": 2.2813596725463867, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 417.101854324
+    }, 
+    "833303226": {
+        "node_label": 1246, 
+        "rel_err": 1.0, 
+        "abs_err": 0.72217154502868652, 
+        "Pf-Incidence-per-1000-data": 0.7221715450286865, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 2397.29845333
+    }, 
+    "834679500": {
+        "node_label": 758, 
+        "rel_err": 1.0, 
+        "abs_err": 1.1547777652740479, 
+        "Pf-Incidence-per-1000-data": 1.1547777652740479, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1176.7323799100004
+    }, 
+    "830223070": {
+        "node_label": 1011, 
+        "rel_err": 0.31139441630586956, 
+        "abs_err": 1.8402600288391113, 
+        "Pf-Incidence-per-1000-data": 5.909739971160889, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 7.75, 
+        "Population": 681.69836545
+    }, 
+    "834745036": {
+        "node_label": 536, 
+        "rel_err": 1.0, 
+        "abs_err": 0.88441932201385498, 
+        "Pf-Incidence-per-1000-data": 0.884419322013855, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 779.246812344
+    }, 
+    "834089665": {
+        "node_label": 782, 
+        "rel_err": 1.0, 
+        "abs_err": 0.39367565512657166, 
+        "Pf-Incidence-per-1000-data": 0.39367565512657166, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1106.03076792
+    }, 
+    "832647906": {
+        "node_label": 635, 
+        "rel_err": 0.70078555576695467, 
+        "abs_err": 2.3420846462249756, 
+        "Pf-Incidence-per-1000-data": 3.3420846462249756, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 1.0, 
+        "Population": 153.020379066
+    }, 
+    "833368797": {
+        "node_label": 280, 
+        "rel_err": 3.3941048909870881, 
+        "abs_err": 10.813913106918335, 
+        "Pf-Incidence-per-1000-data": 3.186086893081665, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 14.0, 
+        "Population": 531.151830196
+    }, 
+    "834024132": {
+        "node_label": 1220, 
+        "rel_err": 1.0, 
+        "abs_err": 0.34994515776634216, 
+        "Pf-Incidence-per-1000-data": 0.34994515776634216, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 311.58483743700003
+    }, 
+    "832647901": {
+        "node_label": 550, 
+        "rel_err": 0.86052746458771656, 
+        "abs_err": 1.5424675941467285, 
+        "Pf-Incidence-per-1000-data": 1.7924675941467285, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.25, 
+        "Population": 209.53980732
+    }, 
+    "833303238": {
+        "node_label": 1094, 
+        "rel_err": 1.0, 
+        "abs_err": 0.66476017236709595, 
+        "Pf-Incidence-per-1000-data": 0.664760172367096, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 106.00828743
+    }, 
+    "831140588": {
+        "node_label": 543, 
+        "rel_err": 12.041753041663215, 
+        "abs_err": 41.549543619155884, 
+        "Pf-Incidence-per-1000-data": 3.450456380844116, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 45.0, 
+        "Population": 15990.425630300002
+    }, 
+    "832910057": {
+        "node_label": 1299, 
+        "rel_err": 11.495026648745251, 
+        "abs_err": 55.428081512451172, 
+        "Pf-Incidence-per-1000-data": 4.821918487548828, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 60.25, 
+        "Population": 324.173687935
+    }, 
+    "830681831": {
+        "node_label": 804, 
+        "rel_err": 18.219609772531804, 
+        "abs_err": 58.537135601043701, 
+        "Pf-Incidence-per-1000-data": 3.212864398956299, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 61.75, 
+        "Population": 344.069862366
+    }, 
+    "834810579": {
+        "node_label": 1049, 
+        "rel_err": 1.0, 
+        "abs_err": 1.3289084434509277, 
+        "Pf-Incidence-per-1000-data": 1.3289084434509277, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 166.166380167
+    }, 
+    "833958589": {
+        "node_label": 931, 
+        "rel_err": 1.0, 
+        "abs_err": 0.42142388224601746, 
+        "Pf-Incidence-per-1000-data": 0.42142388224601746, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1641.99010801
+    }, 
+    "830354147": {
+        "node_label": 912, 
+        "rel_err": 33.840214719453591, 
+        "abs_err": 202.51553630828857, 
+        "Pf-Incidence-per-1000-data": 5.984463691711426, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 208.5, 
+        "Population": 14720.8542218
+    }, 
+    "831795936": {
+        "node_label": 487, 
+        "rel_err": 0.85480424641526798, 
+        "abs_err": 1.471813440322876, 
+        "Pf-Incidence-per-1000-data": 1.721813440322876, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.25, 
+        "Population": 114.01173543899999
+    }, 
+    "831533806": {
+        "node_label": 626, 
+        "rel_err": 1.9322319800848786, 
+        "abs_err": 4.6127400398254395, 
+        "Pf-Incidence-per-1000-data": 2.3872599601745605, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 7.0, 
+        "Population": 1445.31600571
+    }, 
+    "831533807": {
+        "node_label": 284, 
+        "rel_err": 0.81612710561728241, 
+        "abs_err": 2.2192697525024414, 
+        "Pf-Incidence-per-1000-data": 2.7192697525024414, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.5, 
+        "Population": 388.524991989
+    }, 
+    "831927013": {
+        "node_label": 385, 
+        "rel_err": 21.018171611801129, 
+        "abs_err": 50.11560583114624, 
+        "Pf-Incidence-per-1000-data": 2.3843941688537598, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 52.5, 
+        "Population": 8126.877784969999
+    }, 
+    "834548432": {
+        "node_label": 186, 
+        "rel_err": 1.0, 
+        "abs_err": 1.1970301866531372, 
+        "Pf-Incidence-per-1000-data": 1.1970301866531372, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1843.16380548
+    }, 
+    "833565406": {
+        "node_label": 570, 
+        "rel_err": 21.271645717048749, 
+        "abs_err": 82.377362966537476, 
+        "Pf-Incidence-per-1000-data": 3.8726370334625244, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 86.25, 
+        "Population": 5402.54377317
+    }, 
+    "833368765": {
+        "node_label": 349, 
+        "rel_err": 1.0, 
+        "abs_err": 0.49200141429901123, 
+        "Pf-Incidence-per-1000-data": 0.49200141429901123, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1291.8172009
+    }, 
+    "832189153": {
+        "node_label": 747, 
+        "rel_err": 0.63139885070512047, 
+        "abs_err": 0.85647976398468018, 
+        "Pf-Incidence-per-1000-data": 1.3564797639846802, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.5, 
+        "Population": 486.425856352
+    }, 
+    "834417329": {
+        "node_label": 394, 
+        "rel_err": 1.0, 
+        "abs_err": 0.28244161605834961, 
+        "Pf-Incidence-per-1000-data": 0.2824416160583496, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 877.4547126289999
+    }, 
+    "833499831": {
+        "node_label": 517, 
+        "rel_err": 1.0, 
+        "abs_err": 0.72288835048675537, 
+        "Pf-Incidence-per-1000-data": 0.7228883504867554, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 137.166927338
+    }, 
+    "833106657": {
+        "node_label": 976, 
+        "rel_err": 6.6989284817544581, 
+        "abs_err": 17.619763851165771, 
+        "Pf-Incidence-per-1000-data": 2.6302361488342285, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 20.25, 
+        "Population": 5081.54337406
+    }, 
+    "834286278": {
+        "node_label": 1316, 
+        "rel_err": 1.0, 
+        "abs_err": 0.38302969932556152, 
+        "Pf-Incidence-per-1000-data": 0.3830296993255615, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 570.086946011
+    }, 
+    "832713442": {
+        "node_label": 470, 
+        "rel_err": 0.70764036357962035, 
+        "abs_err": 1.8153336048126221, 
+        "Pf-Incidence-per-1000-data": 2.565333604812622, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.75, 
+        "Population": 246.922175407
+    }, 
+    "833106651": {
+        "node_label": 531, 
+        "rel_err": 6.0861405756814664, 
+        "abs_err": 9.447674036026001, 
+        "Pf-Incidence-per-1000-data": 1.552325963973999, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 11.0, 
+        "Population": 946.6604566569999
+    }, 
+    "833106652": {
+        "node_label": 674, 
+        "rel_err": 1.0, 
+        "abs_err": 1.7618945837020874, 
+        "Pf-Incidence-per-1000-data": 1.7618945837020874, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 158.381608963
+    }, 
+    "832647872": {
+        "node_label": 189, 
+        "rel_err": 1.0, 
+        "abs_err": 2.7209370136260986, 
+        "Pf-Incidence-per-1000-data": 2.7209370136260986, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 377.90406990099996
+    }, 
+    "833958582": {
+        "node_label": 766, 
+        "rel_err": 1.0, 
+        "abs_err": 0.33256399631500244, 
+        "Pf-Incidence-per-1000-data": 0.33256399631500244, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 153.962087393
+    }, 
+    "832385731": {
+        "node_label": 431, 
+        "rel_err": 1.0, 
+        "abs_err": 2.7592108249664307, 
+        "Pf-Incidence-per-1000-data": 2.7592108249664307, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 7864.084071399999
+    }, 
+    "833041096": {
+        "node_label": 388, 
+        "rel_err": 1.0, 
+        "abs_err": 1.7540156841278076, 
+        "Pf-Incidence-per-1000-data": 1.7540156841278076, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 521.9796533580001
+    }, 
+    "830878419": {
+        "node_label": 341, 
+        "rel_err": 1.0, 
+        "abs_err": 2.0613868236541748, 
+        "Pf-Incidence-per-1000-data": 2.061386823654175, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 200.153153419
+    }, 
+    "833041091": {
+        "node_label": 30, 
+        "rel_err": 1.0, 
+        "abs_err": 1.6896940469741821, 
+        "Pf-Incidence-per-1000-data": 1.6896940469741821, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 222.88550567599998
+    }, 
+    "830616287": {
+        "node_label": 489, 
+        "rel_err": 1.0, 
+        "abs_err": 3.0471596717834473, 
+        "Pf-Incidence-per-1000-data": 3.0471596717834473, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 258.004165649
+    }, 
+    "834482865": {
+        "node_label": 164, 
+        "rel_err": 1.0, 
+        "abs_err": 0.24446000158786774, 
+        "Pf-Incidence-per-1000-data": 0.24446000158786774, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 872.5484900469999
+    }, 
+    "834482866": {
+        "node_label": 1023, 
+        "rel_err": 1.0, 
+        "abs_err": 0.29781848192214966, 
+        "Pf-Incidence-per-1000-data": 0.29781848192214966, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 274.578473091
+    }, 
+    "834941621": {
+        "node_label": 673, 
+        "rel_err": 1.0, 
+        "abs_err": 0.28443694114685059, 
+        "Pf-Incidence-per-1000-data": 0.2844369411468506, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 31855.0334592
+    }, 
+    "830354151": {
+        "node_label": 1290, 
+        "rel_err": 7.2013751424292698, 
+        "abs_err": 41.269253730773926, 
+        "Pf-Incidence-per-1000-data": 5.730746269226074, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 47.0, 
+        "Population": 782.666756153
+    }, 
+    "831206089": {
+        "node_label": 675, 
+        "rel_err": 1.0, 
+        "abs_err": 1.9695022106170654, 
+        "Pf-Incidence-per-1000-data": 1.9695022106170654, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 462.272230864
+    }, 
+    "834876124": {
+        "node_label": 503, 
+        "rel_err": 1.0, 
+        "abs_err": 3.0539524555206299, 
+        "Pf-Incidence-per-1000-data": 3.05395245552063, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 126.86500406299999
+    }, 
+    "833368776": {
+        "node_label": 1002, 
+        "rel_err": 1.0, 
+        "abs_err": 0.40434381365776062, 
+        "Pf-Incidence-per-1000-data": 0.4043438136577606, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 475.73224163099997
+    }, 
+    "833368774": {
+        "node_label": 439, 
+        "rel_err": 1.0, 
+        "abs_err": 0.57689404487609863, 
+        "Pf-Incidence-per-1000-data": 0.5768940448760986, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 106.619568825
+    }, 
+    "832516827": {
+        "node_label": 641, 
+        "rel_err": 0.66496760949269518, 
+        "abs_err": 0.99239301681518555, 
+        "Pf-Incidence-per-1000-data": 1.4923930168151855, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.5, 
+        "Population": 118.04837799100001
+    }, 
+    "830681799": {
+        "node_label": 612, 
+        "rel_err": 0.10718449397874522, 
+        "abs_err": 0.27011752128601074, 
+        "Pf-Incidence-per-1000-data": 2.5201175212860107, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 2.25, 
+        "Population": 6267.976711270001
+    }, 
+    "830943974": {
+        "node_label": 927, 
+        "rel_err": 0.91279115123471632, 
+        "abs_err": 2.6166815757751465, 
+        "Pf-Incidence-per-1000-data": 2.8666815757751465, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.25, 
+        "Population": 233.54397821400002
+    }, 
+    "834024119": {
+        "node_label": 935, 
+        "rel_err": 1.0, 
+        "abs_err": 0.28195351362228394, 
+        "Pf-Incidence-per-1000-data": 0.28195351362228394, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 597.1486861710001
+    }, 
+    "834613959": {
+        "node_label": 437, 
+        "rel_err": 0.74593504959639101, 
+        "abs_err": 0.32043075561523438, 
+        "Pf-Incidence-per-1000-data": 0.4295692443847656, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.75, 
+        "Population": 22028.3566487
+    }, 
+    "830419672": {
+        "node_label": 202, 
+        "rel_err": 1.0, 
+        "abs_err": 2.4063377380371094, 
+        "Pf-Incidence-per-1000-data": 2.4063377380371094, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 422.493350983
+    }, 
+    "830747356": {
+        "node_label": 1186, 
+        "rel_err": 0.88863086968897498, 
+        "abs_err": 1.9947872161865234, 
+        "Pf-Incidence-per-1000-data": 2.2447872161865234, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.25, 
+        "Population": 119.492546082
+    }, 
+    "833237699": {
+        "node_label": 1163, 
+        "rel_err": 1.0, 
+        "abs_err": 1.1858426332473755, 
+        "Pf-Incidence-per-1000-data": 1.1858426332473755, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 114.910116196
+    }, 
+    "830747353": {
+        "node_label": 144, 
+        "rel_err": 1.0, 
+        "abs_err": 2.7249822616577148, 
+        "Pf-Incidence-per-1000-data": 2.724982261657715, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 192.412332535
+    }, 
+    "830747359": {
+        "node_label": 21, 
+        "rel_err": 1.0, 
+        "abs_err": 3.0241258144378662, 
+        "Pf-Incidence-per-1000-data": 3.024125814437866, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 169.667988777
+    }, 
+    "832975562": {
+        "node_label": 514, 
+        "rel_err": 1.0, 
+        "abs_err": 1.4529922008514404, 
+        "Pf-Incidence-per-1000-data": 1.4529922008514404, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 143.450066566
+    }, 
+    "835203769": {
+        "node_label": 770, 
+        "rel_err": 1.0, 
+        "abs_err": 0.27591189742088318, 
+        "Pf-Incidence-per-1000-data": 0.2759118974208832, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 433.952439785
+    }, 
+    "833565384": {
+        "node_label": 460, 
+        "rel_err": 1.0, 
+        "abs_err": 0.37524357438087463, 
+        "Pf-Incidence-per-1000-data": 0.37524357438087463, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 188.59215498
+    }, 
+    "833630916": {
+        "node_label": 288, 
+        "rel_err": 1.0, 
+        "abs_err": 0.38031297922134399, 
+        "Pf-Incidence-per-1000-data": 0.380312979221344, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1944.05712485
+    }, 
+    "830812902": {
+        "node_label": 9, 
+        "rel_err": 6.4126262164600574, 
+        "abs_err": 15.571710824966431, 
+        "Pf-Incidence-per-1000-data": 2.4282891750335693, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 18.0, 
+        "Population": 142.31895589799998
+    }, 
+    "830812900": {
+        "node_label": 1128, 
+        "rel_err": 1.0, 
+        "abs_err": 2.003969669342041, 
+        "Pf-Incidence-per-1000-data": 2.003969669342041, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 290.968924522
+    }, 
+    "832582371": {
+        "node_label": 335, 
+        "rel_err": 0.23369081301685368, 
+        "abs_err": 0.47356033325195313, 
+        "Pf-Incidence-per-1000-data": 2.026439666748047, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 2.5, 
+        "Population": 459.506157875
+    }, 
+    "834155194": {
+        "node_label": 579, 
+        "rel_err": 1.0, 
+        "abs_err": 0.47754266858100891, 
+        "Pf-Incidence-per-1000-data": 0.4775426685810089, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 783.3474166389999
+    }, 
+    "834089670": {
+        "node_label": 55, 
+        "rel_err": 1.0, 
+        "abs_err": 0.43489712476730347, 
+        "Pf-Incidence-per-1000-data": 0.43489712476730347, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1000.12212181
+    }, 
+    "832254686": {
+        "node_label": 860, 
+        "rel_err": 1.0, 
+        "abs_err": 1.1347919702529907, 
+        "Pf-Incidence-per-1000-data": 1.1347919702529907, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 453.94572162599997
+    }, 
+    "831075014": {
+        "node_label": 1059, 
+        "rel_err": 1.0, 
+        "abs_err": 1.4134006500244141, 
+        "Pf-Incidence-per-1000-data": 1.413400650024414, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 200.06379056
+    }, 
+    "834548413": {
+        "node_label": 376, 
+        "rel_err": 1.0, 
+        "abs_err": 0.33276912569999695, 
+        "Pf-Incidence-per-1000-data": 0.33276912569999695, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 6805.244495150001
+    }, 
+    "835269326": {
+        "node_label": 119, 
+        "rel_err": 1.0, 
+        "abs_err": 0.81857728958129883, 
+        "Pf-Incidence-per-1000-data": 0.8185772895812988, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 144.831172466
+    }, 
+    "832844486": {
+        "node_label": 146, 
+        "rel_err": 1.0, 
+        "abs_err": 2.2697796821594238, 
+        "Pf-Incidence-per-1000-data": 2.269779682159424, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1240.3588604899996
+    }, 
+    "832844487": {
+        "node_label": 340, 
+        "rel_err": 1.0, 
+        "abs_err": 2.4291975498199463, 
+        "Pf-Incidence-per-1000-data": 2.4291975498199463, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 208.439647675
+    }, 
+    "830419665": {
+        "node_label": 795, 
+        "rel_err": 2.0641397911136021, 
+        "abs_err": 7.2416744232177734, 
+        "Pf-Incidence-per-1000-data": 3.5083255767822266, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 10.75, 
+        "Population": 550.745526314
+    }, 
+    "834613976": {
+        "node_label": 77, 
+        "rel_err": 0.59802650494332144, 
+        "abs_err": 1.1157946586608887, 
+        "Pf-Incidence-per-1000-data": 1.8657946586608887, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.75, 
+        "Population": 1062.81501055
+    }, 
+    "834482916": {
+        "node_label": 688, 
+        "rel_err": 1.0, 
+        "abs_err": 3.6988341808319092, 
+        "Pf-Incidence-per-1000-data": 3.698834180831909, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1959.39474964
+    }, 
+    "832910023": {
+        "node_label": 1216, 
+        "rel_err": 1.0, 
+        "abs_err": 2.0048732757568359, 
+        "Pf-Incidence-per-1000-data": 2.004873275756836, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 189.54756546
+    }, 
+    "832975554": {
+        "node_label": 31, 
+        "rel_err": 1.0, 
+        "abs_err": 2.2750613689422607, 
+        "Pf-Incidence-per-1000-data": 2.2750613689422607, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 391.53335785900003
+    }, 
+    "832910026": {
+        "node_label": 565, 
+        "rel_err": 1.0, 
+        "abs_err": 1.4564942121505737, 
+        "Pf-Incidence-per-1000-data": 1.4564942121505737, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 238.00202941900002
+    }, 
+    "832910024": {
+        "node_label": 640, 
+        "rel_err": 1.0, 
+        "abs_err": 2.1503715515136719, 
+        "Pf-Incidence-per-1000-data": 2.150371551513672, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 113.32926464100001
+    }, 
+    "830091981": {
+        "node_label": 373, 
+        "rel_err": 0.95949352692826584, 
+        "abs_err": 5.9218530654907227, 
+        "Pf-Incidence-per-1000-data": 6.171853065490723, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.25, 
+        "Population": 519.523740768
+    }, 
+    "835203770": {
+        "node_label": 1033, 
+        "rel_err": 1.0, 
+        "abs_err": 0.24204820394515991, 
+        "Pf-Incidence-per-1000-data": 0.2420482039451599, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 910.135460138
+    }, 
+    "830091985": {
+        "node_label": 1321, 
+        "rel_err": 13.826875155676072, 
+        "abs_err": 78.800889492034912, 
+        "Pf-Incidence-per-1000-data": 5.699110507965088, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 84.5, 
+        "Population": 2066.67096019
+    }, 
+    "834941643": {
+        "node_label": 616, 
+        "rel_err": 1.0, 
+        "abs_err": 0.70074886083602905, 
+        "Pf-Incidence-per-1000-data": 0.700748860836029, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 1033.35241127
+    }, 
+    "833696467": {
+        "node_label": 776, 
+        "rel_err": 1.0, 
+        "abs_err": 0.89731514453887939, 
+        "Pf-Incidence-per-1000-data": 0.8973151445388794, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 252.851545811
+    }, 
+    "835203809": {
+        "node_label": 811, 
+        "rel_err": 1.0, 
+        "abs_err": 4.4212565422058105, 
+        "Pf-Incidence-per-1000-data": 4.4212565422058105, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 383.994909286
+    }, 
+    "830550747": {
+        "node_label": 748, 
+        "rel_err": 0.86285943574769775, 
+        "abs_err": 3.1458942890167236, 
+        "Pf-Incidence-per-1000-data": 3.6458942890167236, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.5, 
+        "Population": 155.496516228
+    }, 
+    "832516845": {
+        "node_label": 20, 
+        "rel_err": 1670.0011730807064, 
+        "abs_err": 6666.7579321861267, 
+        "Pf-Incidence-per-1000-data": 3.992067813873291, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 6670.75, 
+        "Population": 48539.6061859
+    }, 
+    "833696469": {
+        "node_label": 321, 
+        "rel_err": 1.0, 
+        "abs_err": 1.6344985961914062, 
+        "Pf-Incidence-per-1000-data": 1.6344985961914062, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 189.743971825
+    }, 
+    "832516840": {
+        "node_label": 800, 
+        "rel_err": 36.819422186282438, 
+        "abs_err": 152.84869384765625, 
+        "Pf-Incidence-per-1000-data": 4.15130615234375, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 157.0, 
+        "Population": 1714.67030859
+    }, 
+    "832582369": {
+        "node_label": 717, 
+        "rel_err": 1.0, 
+        "abs_err": 2.1693463325500488, 
+        "Pf-Incidence-per-1000-data": 2.169346332550049, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 170.021886349
+    }, 
+    "830223056": {
+        "node_label": 762, 
+        "rel_err": 4.0684320418091939, 
+        "abs_err": 15.652656316757202, 
+        "Pf-Incidence-per-1000-data": 3.847343683242798, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 19.5, 
+        "Population": 634.9598789219999
+    }, 
+    "830812891": {
+        "node_label": 547, 
+        "rel_err": 1.0, 
+        "abs_err": 3.1022539138793945, 
+        "Pf-Incidence-per-1000-data": 3.1022539138793945, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 172.97220039400003
+    }, 
+    "832713435": {
+        "node_label": 540, 
+        "rel_err": 0.41615767444366042, 
+        "abs_err": 0.35639560222625732, 
+        "Pf-Incidence-per-1000-data": 0.8563956022262573, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.5, 
+        "Population": 941.7241415980001
+    }, 
+    "830812894": {
+        "node_label": 896, 
+        "rel_err": 1.0, 
+        "abs_err": 2.5621163845062256, 
+        "Pf-Incidence-per-1000-data": 2.5621163845062256, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 138.265043259
+    }, 
+    "834548392": {
+        "node_label": 868, 
+        "rel_err": 1.0, 
+        "abs_err": 0.17481884360313416, 
+        "Pf-Incidence-per-1000-data": 0.17481884360313416, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 4284.69170284
+    }, 
+    "833106621": {
+        "node_label": 690, 
+        "rel_err": 1.0, 
+        "abs_err": 1.4744609594345093, 
+        "Pf-Incidence-per-1000-data": 1.4744609594345093, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 2441.39943767
+    }, 
+    "833827530": {
+        "node_label": 380, 
+        "rel_err": 1.851084135553311, 
+        "abs_err": 0.32462811470031738, 
+        "Pf-Incidence-per-1000-data": 0.17537188529968262, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.5, 
+        "Population": 267.531537056
+    }, 
+    "831009481": {
+        "node_label": 274, 
+        "rel_err": 1.0, 
+        "abs_err": 2.3832576274871826, 
+        "Pf-Incidence-per-1000-data": 2.3832576274871826, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 466.239425659
+    }, 
+    "832385762": {
+        "node_label": 358, 
+        "rel_err": 20.608211258217963, 
+        "abs_err": 29.088499546051025, 
+        "Pf-Incidence-per-1000-data": 1.4115004539489746, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 30.5, 
+        "Population": 5705.306934360001
+    }, 
+    "832910015": {
+        "node_label": 132, 
+        "rel_err": 1.0, 
+        "abs_err": 1.8343408107757568, 
+        "Pf-Incidence-per-1000-data": 1.8343408107757568, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 8849.048700569998
+    }, 
+    "833761991": {
+        "node_label": 334, 
+        "rel_err": 1.0, 
+        "abs_err": 0.33335810899734497, 
+        "Pf-Incidence-per-1000-data": 0.33335810899734497, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 172.662087917
+    }, 
+    "834613953": {
+        "node_label": 627, 
+        "rel_err": 1.0, 
+        "abs_err": 0.34007713198661804, 
+        "Pf-Incidence-per-1000-data": 0.34007713198661804, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 200.032717228
+    }, 
+    "830091990": {
+        "node_label": 736, 
+        "rel_err": 0.95440571097411742, 
+        "abs_err": 5.2331428527832031, 
+        "Pf-Incidence-per-1000-data": 5.483142852783203, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.25, 
+        "Population": 872.3230056760001
+    }, 
+    "832058097": {
+        "node_label": 1134, 
+        "rel_err": 4.1958689836200769, 
+        "abs_err": 22.611103534698486, 
+        "Pf-Incidence-per-1000-data": 5.388896465301514, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 28.0, 
+        "Population": 457.721323013
+    }, 
+    "835007193": {
+        "node_label": 560, 
+        "rel_err": 0.86219212324401329, 
+        "abs_err": 1.564119815826416, 
+        "Pf-Incidence-per-1000-data": 1.814119815826416, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.25, 
+        "Population": 813.2775623799998
+    }, 
+    "835072714": {
+        "node_label": 840, 
+        "rel_err": 1.0, 
+        "abs_err": 0.82032746076583862, 
+        "Pf-Incidence-per-1000-data": 0.8203274607658386, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 706.6131656170002
+    }, 
+    "830550758": {
+        "node_label": 269, 
+        "rel_err": 28.710243280656297, 
+        "abs_err": 129.24818563461304, 
+        "Pf-Incidence-per-1000-data": 4.501814365386963, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 133.75, 
+        "Population": 769.2389879229999
+    }, 
+    "832647895": {
+        "node_label": 229, 
+        "rel_err": 1.0, 
+        "abs_err": 0.78920847177505493, 
+        "Pf-Incidence-per-1000-data": 0.7892084717750549, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 255.589557171
+    }, 
+    "833041112": {
+        "node_label": 1296, 
+        "rel_err": 1.0, 
+        "abs_err": 0.92427510023117065, 
+        "Pf-Incidence-per-1000-data": 0.9242751002311707, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 117.326546669
+    }, 
+    "831992545": {
+        "node_label": 433, 
+        "rel_err": 1.0, 
+        "abs_err": 1.5382095575332642, 
+        "Pf-Incidence-per-1000-data": 1.5382095575332642, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 110.03601527200001
+    }, 
+    "833041116": {
+        "node_label": 85, 
+        "rel_err": 1.0, 
+        "abs_err": 1.7892340421676636, 
+        "Pf-Incidence-per-1000-data": 1.7892340421676636, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 116.05900144600001
+    }, 
+    "831337169": {
+        "node_label": 558, 
+        "rel_err": 1.0, 
+        "abs_err": 1.228233814239502, 
+        "Pf-Incidence-per-1000-data": 1.228233814239502, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 340.136262894
+    }, 
+    "831140553": {
+        "node_label": 1096, 
+        "rel_err": 1.0, 
+        "abs_err": 2.2602369785308838, 
+        "Pf-Incidence-per-1000-data": 2.260236978530884, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 111.61026144
+    }, 
+    "833696438": {
+        "node_label": 1165, 
+        "rel_err": 1.0, 
+        "abs_err": 0.47574001550674438, 
+        "Pf-Incidence-per-1000-data": 0.4757400155067444, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 6927.7122879
+    }, 
+    "835269341": {
+        "node_label": 336, 
+        "rel_err": 1.1934833110217273, 
+        "abs_err": 2.8565466403961182, 
+        "Pf-Incidence-per-1000-data": 2.393453359603882, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 5.25, 
+        "Population": 4381.06178784
+    }, 
+    "834024146": {
+        "node_label": 815, 
+        "rel_err": 0.7938570308972841, 
+        "abs_err": 0.96275055408477783, 
+        "Pf-Incidence-per-1000-data": 1.2127505540847778, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.25, 
+        "Population": 307.102954626
+    }, 
+    "833893049": {
+        "node_label": 740, 
+        "rel_err": 1.0, 
+        "abs_err": 0.41109484434127808, 
+        "Pf-Incidence-per-1000-data": 0.4110948443412781, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 111.46858263
+    }, 
+    "833893048": {
+        "node_label": 399, 
+        "rel_err": 1.0, 
+        "abs_err": 0.31760254502296448, 
+        "Pf-Incidence-per-1000-data": 0.3176025450229645, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 170.960424185
+    }, 
+    "834024148": {
+        "node_label": 984, 
+        "rel_err": 1.0, 
+        "abs_err": 0.97252976894378662, 
+        "Pf-Incidence-per-1000-data": 0.9725297689437866, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 157.621695042
+    }, 
+    "830157531": {
+        "node_label": 780, 
+        "rel_err": 7.4922299227457225, 
+        "abs_err": 42.127213001251221, 
+        "Pf-Incidence-per-1000-data": 5.622786998748779, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 47.75, 
+        "Population": 17367.8886738
+    }, 
+    "830157536": {
+        "node_label": 251, 
+        "rel_err": 13.317504883140156, 
+        "abs_err": 108.82818508148193, 
+        "Pf-Incidence-per-1000-data": 8.171814918518066, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 117.0, 
+        "Population": 751.4595508579998
+    }, 
+    "834876100": {
+        "node_label": 819, 
+        "rel_err": 1.0, 
+        "abs_err": 0.3842812180519104, 
+        "Pf-Incidence-per-1000-data": 0.3842812180519104, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 7403.120541329999
+    }, 
+    "833172186": {
+        "node_label": 466, 
+        "rel_err": 1.0, 
+        "abs_err": 1.6482839584350586, 
+        "Pf-Incidence-per-1000-data": 1.6482839584350586, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 116.188325405
+    }, 
+    "830485208": {
+        "node_label": 166, 
+        "rel_err": 1.7276230938977257, 
+        "abs_err": 3.9586277008056641, 
+        "Pf-Incidence-per-1000-data": 2.291372299194336, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 6.25, 
+        "Population": 334.761146069
+    }, 
+    "831402734": {
+        "node_label": 1311, 
+        "rel_err": 1.0, 
+        "abs_err": 2.7943892478942871, 
+        "Pf-Incidence-per-1000-data": 2.794389247894287, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.0, 
+        "Population": 416.379789352
+    }, 
+    "833630945": {
+        "node_label": 1069, 
+        "rel_err": 0.86839000025604662, 
+        "abs_err": 4.9486551284790039, 
+        "Pf-Incidence-per-1000-data": 5.698655128479004, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.75, 
+        "Population": 185.979195356
+    }, 
+    "831402732": {
+        "node_label": 933, 
+        "rel_err": 0.82438619174264605, 
+        "abs_err": 2.3471565246582031, 
+        "Pf-Incidence-per-1000-data": 2.847156524658203, 
+        "x_Local_Migration": 0.1, 
+        "5yr-avg-Pf-Incidence-per-1000-model": 0.5, 
+        "Population": 379.927083969
+    }
+}
