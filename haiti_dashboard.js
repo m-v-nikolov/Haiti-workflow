@@ -1,5 +1,5 @@
-var gazeteer_select_model = "migration-sweep-clinical-cases-5yr-avg-per-1000-calibration-period-2010-2014";
-var gazeteer_select = "1e-3";
+var gazeteer_select_model = "var-pop-migration-sweep-clinical-cases-5yr-avg-per-1000-calibration-period-2010-2014";
+var gazeteer_select = "grandanse_migration_scales_sweep_var_pop_1e-3";
 var node_select = "unselect";
 
 function load_dashboard(gazetteer_file, gazetteer_header_file, map_data_file)
@@ -55,8 +55,14 @@ function load_gazeteer(gazetteer_file, gazetteer_header, map_data_file)
 			 .attr("value", function (d) {
 				 	return d.model; 
 			 		})
-			 .attr("class", function(d){if (d.model == gazeteer_select_model) return "gazeteer_model_selected"; else return "gazeteer_model";})
-			 .on("click", function (d) { gazeteer_select_model = d.model;})
+			 .attr("class", function(d){ if(d.model == gazeteer_select_model) return "gazeteer_model_selected"; else return "gazeteer_model";})
+			 /*
+			 .on("click", function (d) {
+				 				 
+				 gazeteer_select_model = d.model;
+				 load_gazeteer(gazetteer_file, gazetteer_header, map_data_file);
+			 })
+			 */
             .html(function(d){ return "<b>"+d.model+"</b>" + "<br/>" + d.params })
             .append("select")
             .selectAll("option")
@@ -69,12 +75,18 @@ function load_gazeteer(gazetteer_file, gazetteer_header, map_data_file)
 				.on("click", function (d) {
 						//d3.select("#model_"+gazeteer_select).attr("class","gazeteer_model").attr("selected", false);
 						//d3.select("#model_"+d.value).attr("class","gazeteer_model_selected").attr("selected", true);
-						
+					
+						// change selected model parameters
 						d3.select("#model_"+gazeteer_select).attr("selected", false);
+						
 						d3.select("#model_"+d.value).attr("selected", true);
 						
 			            gazeteer_select = d.value;
-			            load_maps(map_data_file);
+			           
+			            //load_maps(map_data_file);
+			            
+			            gazeteer_select_model = d3.select(this.parentNode.parentNode).datum().model;
+						load_gazeteer(gazetteer_file, gazetteer_header, map_data_file);
 			            
 			         // clear the existing ts
 		        	 d3.select(".ts_container").remove();
@@ -90,7 +102,7 @@ function load_gazeteer(gazetteer_file, gazetteer_header, map_data_file)
 				}) 	
 		});
 	
-
+	   
        load_maps(map_data_file); // load widgets with data state corresponding to the selected model
 	    // clear the existing ts
 	   	d3.select(".ts_container").remove();
@@ -107,8 +119,8 @@ function load_gazeteer(gazetteer_file, gazetteer_header, map_data_file)
 function load_node_charts(params)
 {
 
-	if (params.hasOwnProperty("NodeLabel"))
-		node_select = params["NodeLabel"] 
+	
+	
 	
 	// restore style of nodes
 	selected_nodes = document.getElementsByClassName(node_select);
@@ -119,13 +131,17 @@ function load_node_charts(params)
 	}
 
 	// re-initialize parameters to be selected relevant for this node
-	params_select = []
-
+	//params_select = []
+	
+	if (params.hasOwnProperty("NodeLabel"))
+		node_select = params["NodeLabel"] 
+	
 
 	selected_nodes = document.getElementsByClassName(node_select);
 	
 	for (var i = 0; i < selected_nodes.length; i++)
 	{
+		
 		var node = selected_nodes[i];
 		node.style.stroke = "black";
 		node.style.strokeWidth = "2px";
@@ -224,7 +240,7 @@ function load_maps(map_data_file)
 	// load the map file relevant for the gazetteer selection
 	
 	map = gazeteer_select + "_" + map_data_file;
-	
+	//alert(map);
 	load_map(
 			   'Haiti_clinical_cases_incidence_per_1000_data', // map id 
 	 		   map, 
@@ -243,7 +259,7 @@ function load_maps(map_data_file)
 			'Haiti_clinical_cases_incidence_per_1000_data', 
 		    map,
 		    { 
-			   node_attr_2_color: ["Pf-Incidence-per-1000", d3.scale.quantize().domain([0, 15]).range(colorbrewer.OrRd[9])],
+			   node_attr_2_color: ["Pf-Incidence-per-1000", d3.scale.quantize().domain([0, 10]).range(colorbrewer.OrRd[5])],
 			   node_attr_2_radius : ["Population", d3.scale.sqrt().domain([100, 100000]).range([2, 10])]
 		    },
 		    {
@@ -271,7 +287,7 @@ function load_maps(map_data_file)
 	 		   map,
 	 		   
 	 		   {
-			   		   node_attr_2_color : ["5yr-avg-Pf-Incidence-per-1000-model", d3.scale.quantize().domain([0, 15]).range(colorbrewer.OrRd[9])],
+			   		   node_attr_2_color : ["5yr-avg-Pf-Incidence-per-1000-model", d3.scale.quantize().domain([0, 10]).range(colorbrewer.OrRd[5])],
 			   		   node_attr_2_radius : ["Population", d3.scale.sqrt().domain([100, 100000]).range([2, 10])]
 			   	},
 			   	{

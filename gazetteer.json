@@ -1,6 +1,6 @@
 [
     {
-        "model": "migration-sweep-clinical-cases-5yr-avg-per-1000-calibration-period-2010-2014", 
+        "model": "var-pop-migration-sweep-clinical-cases-5yr-avg-per-1000-calibration-period-2010-2014", 
         "params": "{0.001, 0.01, 0.1, 0.15}", 
         "select": [
             {
@@ -9,19 +9,122 @@
             }, 
             {
                 "name": "x_Local_Migration_0.001", 
-                "value": "1e-3"
+                "value": "grandanse_migration_scales_sweep_var_pop_1e-3"
             },
 			{
                 "name": "x_Local_Migration_0.01", 
-                "value": "1e-2"
+                "value": "grandanse_migration_scales_sweep_var_pop_1e-2"
             },
 			{
                 "name": "x_Local_Migration_0.1", 
-                "value": "1e-1"
+                "value": "grandanse_migration_scales_sweep_var_pop_1e-1"
             },
 			{
                 "name": "x_Local_Migration_0.15", 
-                "value": "15e-2"
+                "value": "grandanse_migration_scales_sweep_var_pop_15e-2"
+            }
+        ]
+    },
+	{
+        "model": "const-pop-migration-1e-2-cc-avg-per-1000-2014-2016-imp-2e-4-hs-1", 
+        "params": "{0.001, 0.01, 0.1, 0.15}", 
+        "select": [
+            {
+                "name": "", 
+                "value": "unselect"
+            }, 
+            {
+                "name": "const_h_840_temp_h_10_mig_1e-2", 
+                "value": "grand_coastal_mig_1e-2_imp_2e-4_const_h_840_temp_h_10_1e-2"
+            },
+			{
+                "name": "const_h_840_temp_h_5_mig_1e-2", 
+                "value": "grand_coastal_mig_1e-2_imp_2e-4_const_h_840_temp_h_5_1e-2"
+            },
+			{
+                "name": "const_h_360_temp_h_25_mig_1e-2", 
+                "value": "grand_coastal_mig_1e-2_imp_2e-4_const_h_360_temp_h_25_1e-2"
+            },
+			{
+                "name": "const_h_360_temp_h_25_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_const_h_360_temp_h_25_1e-1"
+            },
+			{
+                "name": "const_h_240_temp_h_50_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_const_h_240_temp_h_50_1e-1"
+            },
+			{
+                "name": "const_h_600_temp_h_25_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_const_h_600_temp_h_25_1e-1"
+            },
+			{
+                "name": "const_h_480_temp_h_25_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_const_h_480_temp_h_25_1e-1"
+            },
+			{
+                "name": "const_h_720_temp_h_5_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_const_h_720_temp_h_5_1e-1"
+            },
+			{
+                "name": "const_h_600_temp_h_10_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_const_h_600_temp_h_10_1e-1"
+            },
+			{
+                "name": "const_h_10_temp_h_80_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_const_h_10_temp_h_80_1e-1"
+            },
+			{
+                "name": "const_h_80_temp_h_50_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_const_h_80_temp_h_50_1e-1"
+            },
+			{
+                "name": "const_h_160_temp_h_50_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_const_h_160_temp_h_50_1e-1"
+            }
+
+        ]
+    },
+	{
+        "model": "const-pop-migration-1e-1-cc-avg-per-1000-2014-2016-imp-5e-4-hs-1e-3", 
+        "params": "{0.001, 0.01, 0.1, 0.15}", 
+        "select": [
+            {
+                "name": "", 
+                "value": "unselect"
+            }, 
+            {
+                "name": "const_h_720_temp_h_10_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_5e-4_const_h_720_temp_h_10_1e-1"
+            },
+			{
+                "name": "const_h_600_temp_h_10_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_5e-4_const_h_600_temp_h_10_1e-1"
+            },
+			{
+                "name": "const_h_720_temp_h_5_mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_5e-4_const_h_720_temp_h_5_1e-1"
+            }
+        ]
+    },
+	{
+        "model": "const-pop-migration-1e-1-cc-avg-per-1000-2014-2016-imp-2e-4-hs-1e-3_group_calib", 
+        "params": "{0.001, 0.01, 0.1, 0.15}", 
+        "select": [
+            {
+                "name": "", 
+                "value": "unselect"
+            }, 
+            {
+                "name": "mig_1e-1", 
+                "value": "grand_coastal_mig_1e-1_imp_2e-4_calib_1e-1"
+            },
+			{
+                "name": "mig_1e-3", 
+                "value": "grand_coastal_mig_1e-3_imp_2e-4_calib_1e-3"
+            },
+			{
+                "name": "mig_1e-2", 
+                "value": "grand_coastal_mig_1e-2_imp_2e-4_calib_1e-2"
             }
         ]
     }

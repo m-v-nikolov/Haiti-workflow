@@ -94,7 +94,6 @@ function load_map(map_id, map_json, target_container, params)
 			}
 		}
 		
-	
 		d3.json(map_json, function(map_nodes){ 
 		
 			var markers = [];
@@ -263,7 +262,6 @@ function style_map(
 	 *  TODO?: This relationship can naturally be captured by object decoration.  
 	 *   
 	 */
-
 	
 	if(!maps.hasOwnProperty(map_id))
 	{
