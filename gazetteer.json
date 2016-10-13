@@ -125,6 +125,14 @@
 			{
                 "name": "mig_1e-2", 
                 "value": "grand_coastal_mig_1e-2_imp_2e-4_calib_1e-2"
+            },
+			{
+                "name": "mig_1e-10", 
+                "value": "grand_coastal_mig_1e-10_imp_2e-4_calib_1e-10"
+            },
+			{
+                "name": "mig_5e-1", 
+                "value": "grand_coastal_mig_5e-1_imp_2e-4_calib_5e-1"
             }
         ]
     }
